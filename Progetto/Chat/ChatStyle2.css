@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+    font: 14px 'Open sans', sans-serif;
+    color: navy;
+    background-color: lightblue;
+}
+h1 {
+    margin: 0;
+    margin-bottom: 20px;
+	font-size: 24px;
+    text-align : center
+}

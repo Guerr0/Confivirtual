@@ -1,0 +1,48 @@
+body {
+    padding: 0;
+    margin: 0;
+    font: 14px 'Open sans', sans-serif;
+    color: navy;
+    background-color: lightblue;
+}
+h1 {
+    margin: 0;
+    margin-bottom: 20px;
+	font-size: 24px;
+    text-align: center;
+}
+h3 {
+    margin: 0;
+    margin-bottom: 20px;
+	font-size: 17px;
+    text-align: center;
+}
+.form {
+    padding: 40px;
+    background: #DDD;
+    border: 4px solid #AAA;
+    width: 360px;
+    margin: 30px auto;
+    float:left;
+}
+
+input {
+	font: 14px 'Open Sans', sans-serif;
+    border: 2px solid #ccc;
+    padding: 6px;
+    display: block;
+	margin-bottom: 10px;
+    width: 96%;
+}
+
+button {
+    font: 14px 'Open Sans', sans-serif;
+    background-color: #4285f4;
+    color: white;
+    padding: 6px;
+    cursor: pointer;
+    border: none;
+    margin-top: 12px;
+	text-transform: uppercase;
+}
+

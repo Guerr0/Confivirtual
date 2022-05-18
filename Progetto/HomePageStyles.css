@@ -1,0 +1,53 @@
+body {
+  padding: 0;
+  margin: 0;
+  font: 14px 'Open sans', sans-serif;
+  color: black;
+  background-color: lightblue;
+}
+h1 {
+  margin: 0;
+  margin-bottom: 20px;
+ font-size: 24px;
+  text-align : center
+}
+p{
+  text-align: justify;
+}
+
+input {
+  font: 14px 'Open Sans', sans-serif;
+  background-color: #4285f4;
+  color: white;
+  padding: 6px;
+  cursor: pointer;
+  border: none;
+  margin-top: 12px;
+ text-transform: uppercase;
+
+}
+button {
+  font: 14px 'Open Sans', sans-serif;
+  background-color: #4285f4;
+  color: white;
+  padding: 6px;
+  cursor: pointer;
+  border: none;
+  margin-top: 12px;
+text-transform: uppercase;
+}
+
+.buttonSection {
+  width: 10%;
+  position: absolute;
+  top: 8px;
+ right: 16px;
+}
+.buttonSection2
+{
+  width: 10%;
+  position: absolute;
+  top: 8px;
+  right: 90px;
+  
+}
